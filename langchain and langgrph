@@ -1,0 +1,7 @@
+langgraph: specifially supporting agent workflow, each agent work different work
+        langgraph will support how to build and combine agents
+        langgraph aimed at create highly controllable agents, we can specify the state and control flow of agents .
+        its extremly required when there is hight amount 
+
+ Travil: an agentic search return multiple answere to a query rather than links to answer, it format the result in an agent frendly way, in this course
+         how agent search works use it in application
